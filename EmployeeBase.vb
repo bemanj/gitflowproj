@@ -13,4 +13,7 @@
         MsgBox("New Employee added")
     End Sub
 
+    Sub EditEmploye()
+        MsgBox("Updated employee record")
+    End Sub
 End Class
